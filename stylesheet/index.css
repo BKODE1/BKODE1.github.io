@@ -1,0 +1,30 @@
+body{ background-color:#BCED91;
+
+}
+.container {
+	margin-top: 200px;
+	margin-left: 560px;
+	width: 303px;
+	height: 250px;
+	rgin: 400px;
+}
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 37px;
+}
+.aboutme {
+	margin-top: 70px;
+	margin-left: 80px;
+}
+.contactme {
+	margin-left: 80px;
+	margin-top: 70px;
+}
+footer {
+	background-color: #212529;
+	color: white;
+	margin-left: 0px;
+	height: 55px;
+	position: absolute;
+	margin-top: 100px;
+}
